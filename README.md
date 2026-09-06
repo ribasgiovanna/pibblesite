@@ -9,6 +9,8 @@ Not to be confused with [Pibble Express](https://github.com/ribasgiovanna/pibble
 the Django delivery-management application - this is a separate class exercise.
 `pibble.py` is an empty placeholder.
 
+![Travel agency landing page](docs/home.png)
+
 ## Tech
 
 - HTML
