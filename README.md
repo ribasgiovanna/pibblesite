@@ -1,5 +1,7 @@
 # pibblesite
 
+English · [Português](README.pt-br.md)
+
 A short static landing page for a fictional travel agency, built with HTML and CSS
 during a class on 2026-06-01.
 
@@ -7,6 +9,8 @@ Team project with Emelize Bonfim ([@liz-whs](https://github.com/liz-whs)).
 
 Not to be confused with [Pibble Express](https://github.com/ribasgiovanna/pibble_express),
 the Django delivery-management application - this is a separate class exercise.
+
+**Live:** https://ribasgiovanna.github.io/pibblesite/
 
 ![Travel agency landing page](docs/home.png)
 
@@ -17,5 +21,4 @@ the Django delivery-management application - this is a separate class exercise.
 
 ## Running
 
-Open `index.html` in a browser, or visit the live page:
-https://ribasgiovanna.github.io/pibblesite/
+Open `index.html` in a browser. No build step or dependencies.
