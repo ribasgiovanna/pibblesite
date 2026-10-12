@@ -7,7 +7,6 @@ Team project with Emelize Bonfim ([@liz-whs](https://github.com/liz-whs)).
 
 Not to be confused with [Pibble Express](https://github.com/ribasgiovanna/pibble_express),
 the Django delivery-management application - this is a separate class exercise.
-`pibble.py` is an empty placeholder.
 
 ![Travel agency landing page](docs/home.png)
 
@@ -18,4 +17,5 @@ the Django delivery-management application - this is a separate class exercise.
 
 ## Running
 
-Open `agencia.html` in a browser.
+Open `index.html` in a browser, or visit the live page:
+https://ribasgiovanna.github.io/pibblesite/
